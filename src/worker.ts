@@ -49,7 +49,7 @@ const end_html = `
   <p>This is build with Cloudflare Workers, so all telemetry you see is what Cloudflare sees.</p>
   <p>You can view all the telemetry (including what isn't shown here) in JSON format by appending <a href="/?json">?json</a> to the request</p>  
   <footer>
-  	<sub>kmsec.uk - source on Github<br>
+  	<sub>kmsec.uk - source on <a href="https://github.com/kmsec-uk/ip.kmsec.uk">Github</a><br>
 	Styled with <a href="https://picocss.com/">PicoCSS</a>
 	</sub>
   </footer>
